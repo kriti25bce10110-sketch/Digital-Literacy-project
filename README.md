@@ -41,7 +41,7 @@ The Digital Literacy Project has five tasks.
 - Then I created a Google Form quiz on literacy.
 - The Digital Literacy Project is helping me learn about coding and collaboration tools.
 - Here is the Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSek9BB_qzyQ6qYkQAvM0dc_yyneUOY9uCF14IwVMCAIIrjXdQ/viewform?usp=publish-editor
-- 📁 Folder: `task-3-email-platforms/`
+- 📁 Folder: `task-3-platforms/`
 
 # Task 4: Email Etiquette
 
