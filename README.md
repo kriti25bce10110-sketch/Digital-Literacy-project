@@ -69,12 +69,12 @@ The Digital Literacy Project has five tasks.
 
 - I used tools and platforms for the Digital Literacy Project.
 - These include:
-         * Canva
-         * GitHub
-         * LinkedIn
-         * ResearchGate
-         * HackerRank
-         * Google Forms
+  * Canva
+  * GitHub
+  * LinkedIn
+  * ResearchGate
+  * HackerRank
+  * Google Forms
 
 # Conclusion
 
